@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ScreenInfo Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <!-- general -->
+    <string name="label_menu_change_text">Edit Screen Infos</string>
+    <string name="label_menu_change_text_home">Edit Home Text</string>
+    <string name="label_menu_change_text_dashboard">Edit Dashboard Text</string>
+    <string name="label_menu_change_text_notifications">Edit Notification Text</string>
+    <string name="label_ok">OK</string>
+    <string name="label_cancel">Cancel</string>
+
+</resources>

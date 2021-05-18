@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScreenInfo Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Benachrichtigungen</string>
+
+
+    <!-- general -->
+    <string name="label_menu_change_text">Bildschirmdaten ändern</string>
+    <string name="label_menu_change_text_home">Home-Text ändern</string>
+    <string name="label_menu_change_text_dashboard">Dashboard-Text ändern</string>
+    <string name="label_menu_change_text_notifications">Notification-Text ändern</string>
+    <string name="label_ok">OK</string>
+    <string name="label_cancel">Abbrechen</string>
+</resources>
